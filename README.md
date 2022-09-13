@@ -135,7 +135,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![ITACHIMD](https://github.com/TOXICTURBO.png?size=100)](https://github.com/TURBOHYPER)
+  [![ITACHIMD](https://bbts1.azureedge.net/images/p/full/2022/06/7de035b8-45a7-4a3c-88ee-98b6ec8487fe.jpg)](https://github.com/TURBOHYPER)
     
 [ITACHIMD](https://github.com/TURBOHYPER)
   </div>
