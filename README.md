@@ -70,8 +70,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/TURBOHYPER/Toxic-Alexa_V3
-cd Toxic-Alexa_V3
+git clone https://github.com/ITACHIMD/ITACHI-MD-BOT.git
+cd ITACHI-MD-BOT
 npm start
 ```
       
@@ -79,8 +79,8 @@ npm start
 ### Redeploy
 ```js
 SETUP
-git clone https://github.com/TURBOHYPER/Toxic-Alexa_V3
-cd Toxic-Alexa_V3
+git clone https://github.com/ITACHIMD/ITACHI-MD-BOT.git
+cd ITACHI-MD-BOT 
 npm start
 ```
 
