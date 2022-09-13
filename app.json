@@ -1,8 +1,8 @@
 {
   "name": "ITACHI-MD-BOT",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "",
-  "logo": "https://telegra.ph/file/f2bd807ba0793444fbe09.jpg",
+  "repository": "https://github.com/ITACHIMD/ITACHI-MD-BOT.git",
+  "logo": "",
   "keywords": ["nodejs", "itachi-md-bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
