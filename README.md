@@ -1,15 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F753EE&lines=Welcome+To+Toxic-Alexa_V3;This+Bot+Made+By+Turbo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F753EE&lines=Welcome+To+ITACHI-MD-BOT;This+Bot+Made+By+ITACHI)](https://git.io/typing-svg)
 <div align="center">
-        <img src="https://telegra.ph/file/98a4cce3428c086bd7451.jpg" alt="GIF" width="250" height="250"/>
+        <img src="https://bbts1.azureedge.net/images/p/full/2022/06/7de035b8-45a7-4a3c-88ee-98b6ec8487fe.jpg" alt="GIF" width="250" height="250"/>
 </p>
 
-<a href="#"><img title="Toxic-Alexa_V3" src="https://img.shields.io/badge/Toxic-Alexa_V3-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ITACHI-MD-BOT" src="https://img.shields.io/badge/ITACHI-MD-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/TURBOHYPER">Turbo</a> to make it public
+Project created by <a href="https://github.com/ITACHIMD">ITACHI</a> to make it public
     <br>
        | © |
         Reserved |
@@ -45,18 +45,18 @@ Project created by <a href="https://github.com/TURBOHYPER">Turbo</a> to make it 
  
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TURBOHYPER/Toxic-AlexaV3?output%20only=1&lite=1#index.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa_V3) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ITACHIMD/ITACHI-MD-BOT.git) 
 <br>
         
 1. Click [SCAN](https://replit.com/@TURBOHYPER/Toxic-AlexaV3?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
-2. You will get a long text that needs after 4th step (ALEXA_QR_CODE).
+2. You will get a long text that needs after 4th step (ITACHI_QR_CODE).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-4. Click [FORK](https://github.com/TURBOHYPER/Toxic-Alexa_V3/fork)
-5. Paste your qr code [HERE](https://github.com/TURBOHYPER/Toxic-Alexa_V3/blob/main/session.json) that you received in your whatsapp message
+4. Click [FORK](https://github.com/ITACHIMD/ITACHI-MD-BOT/fork)
+5. Paste your qr code [HERE](https://github.com/ITACHIMD/ITACHI-MD-BOT/blob/main/session.json) that you received in your whatsapp message
 6. Now Deploy Using The Button Below
    <br>
 # Contact for help:
-   * Click [Contact](https://wa.me/916380260672?text=Need+Help🙂) Here For Contact Toxic-Turbo
+   * Click [Contact](https://wa.me/917736908570?text=Need+Help🙂) Here For Contact ITACHI-MD-BOT
  
 ### The Hard Method
 ```js
@@ -102,14 +102,14 @@ npm start
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IXzYnsbqxXnKwmZaDzBVXD)
   <div align="center">
 
 
 Click WA logo to Join public bot Group👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IXzYnsbqxXnKwmZaDzBVXD)
   <div align="center">
 
   </div>
@@ -121,7 +121,7 @@ Click WA logo to Join public bot Group👇
 
 ### contact on instagram👇
 
-[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/toxic_turbo777)
+[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/_soul.__.kid_)
 
 
 ### ⚠️ Warning! 
@@ -135,9 +135,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Toxic-Turbo](https://github.com/TOXICTURBO.png?size=100)](https://github.com/TURBOHYPER)
+  [![ITACHIMD](https://github.com/TOXICTURBO.png?size=100)](https://github.com/TURBOHYPER)
     
-[Toxic-Turbo](https://github.com/TURBOHYPER)
+[ITACHIMD](https://github.com/TURBOHYPER)
   </div>
     
     
